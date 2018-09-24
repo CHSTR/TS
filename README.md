@@ -12,4 +12,6 @@ Al costado izquierdo se tiene la prediccion de la red (de color azul), y al cost
 ![2018-09-24-01-59-58-1](https://user-images.githubusercontent.com/31752572/45938198-d3dc4900-bf9d-11e8-80de-b3db7e255c86.gif)
 
 ###RESULTADOS###
+
+En la parte superior de cada imagen se tiene el nombre y el porcentaje de exactitud de la prediccion realizada. CP-> CEDA EL PASO / DP-> DISCO PARE
 ![23-09-2018-v3](https://user-images.githubusercontent.com/31752572/45925539-dda67380-beed-11e8-9b12-7d1efda7c45a.png)
